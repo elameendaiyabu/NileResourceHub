@@ -1,4 +1,4 @@
-# A React Boilerplate
+# A React Boilerplate (Ongoing Project)
 
 - **JS Framework :** React + Vite
 - **Styling :** Tailwind CSS
